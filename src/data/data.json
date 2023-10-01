@@ -1,0 +1,32 @@
+[
+    {
+        "data": [
+            3.5,
+            1,
+            2.5,
+            2.5,
+            1,
+            2.5,
+            2.5,
+            1.5
+        ],
+        "backgroundColor": "rgba(163, 206, 241,0.6)",
+        "pointRadius": 0,
+        "borderWidth": 0
+    },
+    {
+        "data": [
+            2,
+            0.5,
+            1,
+            2,
+            0.5,
+            1,
+            1.5,
+            2.5
+        ],
+        "backgroundColor": "rgba(4, 102, 200,0.7)",
+        "pointRadius": 0,
+        "borderWidth": 0
+    }
+]
